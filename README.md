@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oshane Design</h1>
-<h3 align="center">A passionate Full Stack developer located in Jamaica</h3>
+<h3 align="center">A passionate Full Stack Web Developer Student located in Jamaica</h3>
 
 - 🌱 I’m currently learning **Prototypes, Classes & OOP**
 
