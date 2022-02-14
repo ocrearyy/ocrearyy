@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Node**
 
-- 👯 I’m looking to collaborate on **projects that can help change the world**
-
 - 📫 How to reach me **oshane.design@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
