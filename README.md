@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oshane Design</h1>
-<h3 align="center">A passionate Software Engineering Student</h3>
+<h3 align="center">A passionate Software Engineer Student</h3>
 
 
 - 📫 How to reach me **oshane.design@gmail.com**
