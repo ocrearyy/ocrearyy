@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oshane Design</h1>
 <h3 align="center">A passionate Software Engineer Student</h3>
 
-- 🔭 I’m free and available for opportunities as a Full-Stack Developer
+- 🔭 I’m free and available for opportunities as a Full-Stack Engineer
 - 📫 How to reach me **oshane.design@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
