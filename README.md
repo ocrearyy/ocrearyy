@@ -10,7 +10,9 @@
 <a href="https://www.youtube.com/channel/UCKEzfINidt1ob7xTOwIS_cA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckezfinidt1ob7xtowis_ca" height="30" width="40" /></a>
 <a href="https://twitter.com/oshanedesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oshanedesign" height="30" width="40" /></a>
 </p>
-<img align="center" src="https://ibb.co/1XffkKv" alt="oshanedesign" height="30" width="40" />
+
+![ezgif-4-147db38bdf](https://user-images.githubusercontent.com/40554384/166131058-12cca761-252b-4603-9635-a8b0163cf159.gif)
+
 
 <h3 align="left">My Communities:</h3>
 <p align="left">
