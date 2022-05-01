@@ -3,7 +3,10 @@
 
 - 🔭 I’m free and available for opportunities as a Full-Stack Engineer
 - 📫 How to reach me **oshane.design@gmail.com**
-<div>
+<p align="center">
+  <img src="/ezgif-4-147db38bdf.gif" alt="animated" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/oshane-design-ab2631237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshanedesign" height="30" width="40" /></a>
@@ -18,7 +21,7 @@
  <a href="https://stackoverflow.com/users/17918381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17918381" height="30" width="40" /></a>
  <a href="https://www.reddit.com/user/oshanedesign" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="oshanedesign" height="30" width="40" /></a>
  <div align="right><img src="/ezgif-4-147db38bdf.gif" width="250" height="250"/></div>
-</div>
+
 
 </p>
 
