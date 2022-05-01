@@ -4,7 +4,7 @@
 - 🔭 I’m free and available for opportunities as a Full-Stack Engineer
 - 📫 How to reach me **oshane.design@gmail.com**
 <p align="center">
-  <img src="/ezgif-4-147db38bdf.gif" alt="animated" />
+  <img src="/ezgif-4-147db38bdf.gif" height="900" alt="animated" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
