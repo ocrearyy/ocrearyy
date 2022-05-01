@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oshane </h1>
-<h3 align="center">A passionate♥ Software Programmer👨‍💻</h3>
+<h3 align="center">🐱‍👤A passionate♥ Software Programmer👨‍💻</h3>
 
 - 🔭 I’m free and available for opportunities as a Full-Stack Engineer
 - 📫 How to reach me **oshane.design@gmail.com**
