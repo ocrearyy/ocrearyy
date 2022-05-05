@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oshane </h1>
 <h3 align="center">🐱‍👤A passionate♥ Software Engineer👨‍💻</h3>
 
-- 🔭 I’m free and available for opportunities as a Full-Stack Engineer
+- 🔭 I’m free and available for opportunities as a Software Engineer
 - 📫 How to reach me **oshane.design@gmail.com**
 <p align="center">
   <img src="/ezgif-4-147db38bdf.gif" width="300" alt="animated" />
