@@ -3,6 +3,7 @@
 
 - 🔭 I’m free and available for opportunities as a Software Engineer
 - 📫 How to reach me **oshane.design@gmail.com**
+- ⚒ Take a look at some of my work:
 <p align="center">
   <img src="/ezgif-4-147db38bdf.gif" width="300" alt="animated" />
 </p>
