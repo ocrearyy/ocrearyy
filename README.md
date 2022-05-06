@@ -31,5 +31,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oshanedesign&show_icons=true&locale=en" alt="oshanedesign" />
-  <img align="right" src="/ezgif-4-147db38bdf.gif" width="300" alt="animated" />
+  <img align="right" src="/40554384.png" width="300" alt="animated" />
 </p>
