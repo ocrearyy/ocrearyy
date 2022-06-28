@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Oshane, Web Developer</h1>
-<h3 align="center">🐱‍👤A passionate♥ Software Engineer👨‍💻</h3>
-
+<h1 align="center">Hi 👋, I'm Oshane</h1>
+<h3 align="center">🐱‍👤A passionate♥ Web Developer👨‍💻</h3>
+<p align="center">
+  <img src="/pic.jpg" alt="cover" />
+</p>
 - 🔭 I’m free and available for opportunities as a Software Engineer
 - 📫 How to reach me **orlando.199creary@gmail.com**
 - ⚒ Take a look at some of my work:
