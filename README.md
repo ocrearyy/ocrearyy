@@ -1,15 +1,13 @@
 <p align="center">
   <img src="/coverpic.jpg" alt="cover" />
 </p>
-<h2 align="center"> "My purpose in life is to connect with people who want to change the world and help them do it". </h2>
+<h3 align="center"> "My purpose in life is to connect with people who want to change the world and help them do it". </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ocreary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshanedesign" height="30" width="40" /></a>
 <a href="https://twitter.com/oshanedesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oshanedesign" height="30" width="40" /></a>
 </p>
-
-<h1 align="left">Hi 👋, I'm Oshane 👨‍💻</h1>
 
 <h3 align="left">My Communities:</h3>
 <p align="left">
