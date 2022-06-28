@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Oshane 👨‍💻</h1>
-<h3 align="left">🐱‍👤A passionate♥ Web Developer👨‍💻</h3>
 <p align="center">
   <img src="/pic.jpg" alt="cover" />
 </p>
