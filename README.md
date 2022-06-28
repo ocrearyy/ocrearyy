@@ -30,6 +30,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oshanedesign&show_icons=true&locale=en" alt="oshanedesign" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ocrearyy&show_icons=true&locale=en" alt="oshanedesign" />
   <img align="right" src="/40554384.png" width="200" alt="animated" />
 </p>
