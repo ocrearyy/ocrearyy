@@ -4,9 +4,9 @@
 <h3 align="center"> "My purpose in life is to connect with people who want to change the world and help them do it". </h3>
 
 ## Find me around the web 🌎: 
-- Solving coding challenges on <a href="https://www.hackerrank.com/oshanedesign" target="blank">Hackerrank<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oshanedesign" height="30" width="40"/>c</a> 
+- Solving coding challenges on <a href="https://www.hackerrank.com/oshanedesign" target="blank">Hackerrank<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oshanedesign" height="30" width="40"/></a> 
 
-- Sharing updates on <a href="https://www.linkedin.com/in/ocrearyy/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/ocreary/" target="blank">LinkedIn<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshanedesign" height="30" width="40" /></a> 💼
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ocreary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshanedesign" height="30" width="40" /></a>
