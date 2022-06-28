@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oshane </h1>
+<h1 align="center">Hi 👋, I'm Oshane, Web Developer</h1>
 <h3 align="center">🐱‍👤A passionate♥ Software Engineer👨‍💻</h3>
 
 - 🔭 I’m free and available for opportunities as a Software Engineer
