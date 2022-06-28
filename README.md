@@ -1,6 +1,5 @@
-<h1 align="left">Hi 👋, I'm Oshane 👨‍💻</h1>
 <p align="center">
-  <img src="/pic.jpg" alt="cover" />
+  <img src="/coverpic.jpg" alt="cover" />
 </p>
 - 🔭 I’m free and available for opportunities as a Software Engineer
 - 📫 How to reach me **orlando.199creary@gmail.com**
@@ -15,6 +14,7 @@
 <a href="https://twitter.com/oshanedesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oshanedesign" height="30" width="40" /></a>
 </p>
 
+<h1 align="left">Hi 👋, I'm Oshane 👨‍💻</h1>
 
 <h3 align="left">My Communities:</h3>
 <p align="left">
