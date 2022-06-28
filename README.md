@@ -1,13 +1,7 @@
 <p align="center">
   <img src="/coverpic.jpg" alt="cover" />
 </p>
-"My purpose in life is to connect with people who want to change the world and help them do it". 
-- 🔭 I’m free and available for opportunities as a Software Engineer
-- 📫 How to reach me **orlando.199creary@gmail.com**
-- ⚒ Take a look at some of my work:
-<p align="center">
-  <img src="/ezgif-4-147db38bdf.gif" width="300" alt="animated" />
-</p>
+<h2 align="center"> "My purpose in life is to connect with people who want to change the world and help them do it". </h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
