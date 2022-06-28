@@ -14,10 +14,8 @@
 
 <h3 align="left">My Communities:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/oshanedesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oshanedesign" height="30" width="40" /></a>
-  
-  
- <a href="https://stackoverflow.com/users/17918381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17918381" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/oshanedesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oshanedesign" height="30" width="40" />Hackerrank</a>
+<a href="https://stackoverflow.com/users/17918381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17918381" height="30" width="40" /></a>
  <a href="https://www.reddit.com/user/oshanedesign" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="oshanedesign" height="30" width="40" /></a>
  <div align="right><img src="/ezgif-4-147db38bdf.gif" width="250" height="250"/></div>
 
