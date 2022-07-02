@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/coverpic.jpg" alt="cover" />
+  <img src="/software-gif.jpg" alt="cover" />
 </p>
 <h3 align="center"> "My purpose in life is to connect with people who want to change the world and help them do it". </h3>
 
