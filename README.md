@@ -5,7 +5,7 @@
 
 I'm a Business Intelligence & Data Analytics professional who bridges the gap between complex business operations and data-driven execution. I turn fragmented data into automated dashboards, uncover hidden operational costs, and give executives the clear insights they need to make better decisions.
 
-🌐 **Portfolio:** [oshanecreary.com](https://www.oshanecreary.com)
+🌐 **Portfolio:** [oshanecreary.com](https://www.oshanecreary.com) 
 💼 **LinkedIn:** [linkedin.com/in/oshanecreary](https://www.linkedin.com/in/oshanecreary/)  
 📧 **Email:** oshanecreary1@gmail.com  
 📍 Greater Toronto Area · Open to hybrid and remote roles
