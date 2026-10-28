@@ -1,19 +1,49 @@
-<p align="center">
-  <im src="/software-gif.jpg" alt="cover" />
-</p>
-<h3 align="center"> "My purpose in life is to connect with people who want to change the world and help them do it". </h3>
+# Hi, I'm Oshane Creary 👋
 
-## Find me around the web 🌎: 
-- Solving coding challenges on <a href="https://www.hackerrank.com/ocrearyy" target="blank">Hackerrank<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oshanedesign" height="30" width="40"/></a> 
+**Data Analyst | BI Analyst | Insights & Reporting Developer**  
+10+ years of transferable data experience across FinTech, Logistics & Retail · SQL • Power BI • Tableau • Looker
 
-- Sharing updates on <a href="https://www.linkedin.com/in/ocreary/" target="blank">LinkedIn<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshanedesign" height="30" width="40" /></a> 
-- Learning, Mentoring and Improving my Skills: <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+I'm a Business Intelligence & Data Analytics professional who bridges the gap between complex business operations and data-driven execution. I turn fragmented data into automated dashboards, uncover hidden operational costs, and give executives the clear insights they need to make better decisions.
 
+🌐 **Portfolio:** [ocrearyy.github.io](https://ocrearyy.github.io)  
+💼 **LinkedIn:** [linkedin.com/in/oshanecreary](https://www.linkedin.com/in/oshanecreary/)  
+📧 **Email:** oshanecreary1@gmail.com  
+📍 Greater Toronto Area · Open to hybrid and remote roles
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ocrearyy&show_icons=true&locale=en" alt="oshanedesign" />
-  <img align="right" src="/40554384.png" width="200" alt="animated" />
-</p>
+## 🛠️ Skills
 
+| Area | Tools |
+|---|---|
+| Data Visualization | Power BI, Tableau, Looker, IBM Cognos Analytics |
+| Data & Querying | SQL, Advanced Excel, Data Reporting & Modelling |
+| Domains | Business Intelligence, Business Analysis, Process Optimization, AI Workflows |
 
-![](https://komarev.com/ghpvc/?username=ocrearyy)
+---
+
+## 📈 Impact
+
+- **Executive visibility:** Consolidated fragmented reporting across multiple subsidiaries into unified executive dashboards, eliminating manual tracking errors and giving CEOs clearer real-time visibility into operations.
+- **Cost recovery:** Uncovered and recovered six-figure costs that had previously gone untraced, directly improving profitability.
+- **AI automation:** Built an AI-powered lead qualification agent that researches companies, rates leads and coordinates follow-up actions across CRM workflows.
+
+---
+
+## 📂 Featured Projects
+
+| Project | Type | Link |
+|---|---|---|
+| Hospital Database Case Study | SQL | [View repo](https://github.com/ocrearyy/SQLCaseStudy_Hospital) |
+| Interactive Performance Dashboard | Tableau | [View dashboard](https://public.tableau.com/app/profile/oshane.oshane/viz/DashboardPortfolio_17926043521680/Dashboard1) |
+| AI Lead Qualification Agent | Agentic AI | [Try it](https://tally.so/r/VpL4xN) |
+| Data Presentation | Storytelling | [View](https://drive.google.com/file/d/129EdMJI08eDDKIlm8dXJfHeX2cJ3fxoN/view?usp=drivesdk) |
+| Strategic Initiative | Strategy | [View](https://drive.google.com/file/d/1rnfRvebcj2T8N2jVs1WhyPyDojVe1Nih/view?usp=sharing) |
+| Business Process Automation | Automation | [View](https://drive.google.com/file/d/1PnX5ULRVYJObHS51Nqu6eNlxpbES8KcT/view?usp=sharing) |
+
+---
+
+## 🎯 Open To
+
+**Roles:** Data Analyst · BI Analyst · Business Data Analyst · Insights & Reporting Developer  
+**Industries:** Banking · Financial Services · FinTech · IT · SaaS Operations
