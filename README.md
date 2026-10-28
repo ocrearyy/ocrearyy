@@ -7,7 +7,6 @@ I'm a Business Intelligence & Data Analytics professional who bridges the gap be
 
 🌐 **Portfolio:** [oshanecreary.com](https://www.oshanecreary.com)                       
 💼 **LinkedIn:** [linkedin.com/in/oshanecreary](https://www.linkedin.com/in/oshanecreary/)  
-📧 **Email:** oshanecreary1@gmail.com  
 📍 Greater Toronto Area · Open to hybrid and remote roles
 
 ---
